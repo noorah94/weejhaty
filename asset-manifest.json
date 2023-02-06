@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wejhaty/static/css/main.5744805a.css",
+    "main.js": "/wejhaty/static/js/main.420b650f.js",
+    "static/js/787.070db070.chunk.js": "/wejhaty/static/js/787.070db070.chunk.js",
+    "index.html": "/wejhaty/index.html",
+    "main.5744805a.css.map": "/wejhaty/static/css/main.5744805a.css.map",
+    "main.420b650f.js.map": "/wejhaty/static/js/main.420b650f.js.map",
+    "787.070db070.chunk.js.map": "/wejhaty/static/js/787.070db070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5744805a.css",
+    "static/js/main.420b650f.js"
+  ]
+}
